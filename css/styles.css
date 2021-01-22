@@ -1,0 +1,25 @@
+body {
+  background-color: #d6efc7;
+  font-family: helvetica, sans-serif;
+
+}
+hr {
+  border-style: dotted none none none;
+  border-color: #99b898;
+  border-width: 5px;
+  border-radius: 0;
+  width: 20%;
+  height: 0;
+}
+h1 {
+  color: #1b262c;
+  font-family: helvetica, sans-serif;
+}
+h3 {
+  color: #7c9473;
+  font-family: helvetica, sans-serif;
+
+}
+p {
+  font-family: arial;
+}
